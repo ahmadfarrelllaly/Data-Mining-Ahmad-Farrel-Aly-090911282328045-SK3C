@@ -1,6 +1,4 @@
-# Data-Mining-Ahmad-Farrel-Aly-090911282328045-SK3C
-
-Laporan
+# Laporan Singkat Hasil Dari Eksplorasi Dataset Heart Disease UCI
 
 Berdasarkan Dataset tentang kesehatan yakni Dataset Heart Disease UCI dari Kaggle, setiap variabel yang terdapat pada dataset tersebut (id, age, trestbps, dll) dilakukan perhitungan statistik deskriptif untuk menemukan mean, median, modus, standar deviasi, variansi. Setelah dilakukan perhitungan, terdapat beberapa penemuan seperti adanya distribusi tidak normal seperti pada nilai variansi yang setiap variabel memiliki perbedaan nilai-nilai yang cukup besar. Distribusi tidak nomral ini dapat terlihat dari grafik histogram dan pair plot yang memiliki bentuk persebaran data yang bervariasi, ada yang tidak merata, ada yang membentuk garis lurus dan sebagainya.
 
